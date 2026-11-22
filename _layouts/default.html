@@ -1,13 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{{ page.title }} SLP-PAW </title>
+
+  <style> 
+  /*The style section is CSS therefore you can do commentary like this -------------------------------*/
+  
+    html {
+      background-color: #000000; <!-- black -->
+    }  
+
+    body{
+    color: #ffffff;
+    }
+    
+    nav {
+    justify-content: space-around; /* Distributes the links evenly with space around them */
+    align-items: center; /* Vertically centres the links within the navigation bar */
+    padding: 18px 0; /* Adds 18px of space above and below; 0px on the sides */
+    }  
+    
+    
+  footer {
+      border-top: 1px solid #dddddd;
+      color: #F5FF00;
+    }
+    /*End of style section ---------------------------------------------------------------------------*/
+  </style> 
+  
 </head>
+
+
 <body>
-    <main>
-        {{ content }}
-    </main>
+  <header>
+  <nav>
+      <a href="{{ '/index.html' | relative_url }}">Home</a>
+      <a href="{{ '/cv.html' | relative_url }}">CV</a>
+    </nav>  
+  </header>
+  {{ content }}
+  <footer>
+    <p>© {{ 'now' | date: "%Y" }} Simon L. Panaretou</p>
+  </footer>
+
 </body>
 </html>
