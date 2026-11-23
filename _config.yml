@@ -20,8 +20,8 @@
 
 title: "PAW"
 description: "Personal Academic Website"
-url: "https://slpanaretou.github.io/PAW"
-baseurl: ""
+url: "https://slpanaretou.github.io"
+baseurl: "/PAW"
 
 markdown: kramdown
 # Exclude from processing.
