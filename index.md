@@ -1,19 +1,14 @@
 ---
-
 layout: default
 title: Home
 ---
 
-# Welcome Hello
+## About me
 
-This is my Personal Academic Website (PAW)
+Born in Glasgow and raised in East Dunbartonshire, I began my undergraduate studies at the University of Glasgow in 2024, initially on the Mathematics and Physics programme. After a year of studying Mathematics, Physics, and Chemistry, I realised that all three were equally important to my interests. I therefore transferred to the Chemical Physics programme, allowing me to continue developing my understanding across all three disciplines, and dive deeper into science at the atomic and molecular scale. 
 
-## Current Ventures
+## Projects
 
-* **Oct 2026 - Present:** President | University of Glasgow Alchemist Society
-* **July 2026 - Present:** Organiser | Scottish Conference in Optical Technologies
-* **May 2026 - Present:** Intern | Hedley Single Molecule Laboratory
-* **Oct 2025 - Present** AV Technician | Queen Margaret Union
-* **Sep 2024 - Present:** Undergraduate Student of Chemical Physics | University of Glasgow
-* **Nov 2023 - Present** Conservationist | Mugdock Country Park
+- **May 2026 - Present:** Intern \| Hedley Single Molecule Laboratory
+- **July 2026 - Present:** Organiser \| Scottish Conference in Optical Technologies
 
